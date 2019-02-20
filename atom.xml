@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rainbo大叔&#39;s Blogs</title>
+  
+  <subtitle>产品 * 数据 * 思维</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://HubeiXX.github.io/"/>
+  <updated>2019-02-20T04:31:51.622Z</updated>
+  <id>https://HubeiXX.github.io/</id>
+  
+  <author>
+    <name>Rainbo大叔</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>new-post</title>
+    <link href="https://HubeiXX.github.io/1/new-post.html"/>
+    <id>https://HubeiXX.github.io/1/new-post.html</id>
+    <published>2019-02-07T07:09:40.000Z</published>
+    <updated>2019-02-20T04:31:51.622Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><html><head></head><body><p> hellO,world</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script></body></html>]]></content>
+    
+    <summary type="html">
+    
+      6
+    
+    </summary>
+    
+      <category term="1" scheme="https://HubeiXX.github.io/categories/1/"/>
+    
+    
+      <category term="2" scheme="https://HubeiXX.github.io/tags/2/"/>
+    
+  </entry>
+  
+</feed>
