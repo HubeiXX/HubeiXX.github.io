@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://HubeiXX.github.io/"/>
-  <updated>2019-02-20T04:31:51.622Z</updated>
+  <updated>2019-02-23T06:15:55.980Z</updated>
   <id>https://HubeiXX.github.io/</id>
   
   <author>
@@ -17,13 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>diyi</title>
+    <link href="https://HubeiXX.github.io/uncategorized/diyi.html"/>
+    <id>https://HubeiXX.github.io/uncategorized/diyi.html</id>
+    <published>2019-02-23T03:01:23.000Z</published>
+    <updated>2019-02-23T06:15:55.980Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><html><head></head><body><p class="22"></p><p>1</p><img src="/uncategorized/diyi/1.jpg" title="Ϊʲô����ʾ��"><a id="more"></a><p>##</p><p>##</p><p>##</p><hr><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script></body></html>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p class=&quot;22&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;1&lt;/p&gt;
+&lt;img src=&quot;/uncategorized/diyi/1.jpg&quot; title=&quot;Ϊʲô����ʾ��&quot;&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>new-post</title>
     <link href="https://HubeiXX.github.io/1/new-post.html"/>
     <id>https://HubeiXX.github.io/1/new-post.html</id>
     <published>2019-02-07T07:09:40.000Z</published>
-    <updated>2019-02-20T04:31:51.622Z</updated>
+    <updated>2019-02-23T03:45:50.945Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><html><head></head><body><p> hellO,world</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script></body></html>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><html><head></head><body><p> hellO,world</p>        <div id="aplayer-oomoPjoS" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-oomoPjoS"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "你的爱情",              author: "Morris赖仔(Cover:逃跑计划)",              url: "http://music.163.com/song?id=1341567093&userid=51300693",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p><img src="/images/鼠标.ico" alt=""></p><p><img src="/images/1.jpg" alt=""></p><a id="more"></a><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script></body></html>]]></content>
     
     <summary type="html">
     
