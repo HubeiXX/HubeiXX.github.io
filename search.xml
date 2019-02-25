@@ -2,13 +2,19 @@
 <search>
   <entry>
     <title><![CDATA[diyi]]></title>
-    <url>%2Funcategorized%2Fdiyi.html</url>
+    <url>%2Fjishu%2Fdiyi.html</url>
     <content type="text"><![CDATA[1 ## ## ## document.querySelectorAll('.github-emoji') .forEach(el => { if (!el.dataset.src) { return; } const img = document.createElement('img'); img.style = 'display:none !important;'; img.src = el.dataset.src; img.addEventListener('error', () => { img.remove(); el.style.color = 'inherit'; el.style.backgroundImage = 'none'; el.style.background = 'none'; }); img.addEventListener('load', () => { img.remove(); }); document.body.appendChild(img); });]]></content>
+      <categories>
+        <category>jishu</category>
+      </categories>
+      <tags>
+        <tag>3</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[new-post]]></title>
     <url>%2F1%2Fnew-post.html</url>
-    <content type="text"><![CDATA[hellO,world var ap = new APlayer({ element: document.getElementById("aplayer-oomoPjoS"), narrow: false, autoplay: false, showlrc: false, music: { title: "你的爱情", author: "Morris赖仔(Cover:逃跑计划)", url: "http://music.163.com/song?id=1341567093&userid=51300693", pic: "", lrc: "" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); document.querySelectorAll('.github-emoji') .forEach(el => { if (!el.dataset.src) { return; } const img = document.createElement('img'); img.style = 'display:none !important;'; img.src = el.dataset.src; img.addEventListener('error', () => { img.remove(); el.style.color = 'inherit'; el.style.backgroundImage = 'none'; el.style.background = 'none'; }); img.addEventListener('load', () => { img.remove(); }); document.body.appendChild(img); });]]></content>
+    <content type="text"><![CDATA[hellO,world var ap = new APlayer({ element: document.getElementById("aplayer-rMTmEvhT"), narrow: false, autoplay: false, showlrc: false, music: { title: "你的爱情", author: "Morris赖仔(Cover:逃跑计划)", url: "http://music.163.com/song?id=1341567093&userid=51300693", pic: "", lrc: "" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); 1234567891011public class MyActivity extends AppCompatActivity {@Override //override the function protected void onCreate(@Nullable Bundle savedInstanceState) { super.onCreate(savedInstanceState); try { OkhttpManager.getInstance().setTrustrCertificates(getAssets().open("mycer.cer"); OkHttpClient mOkhttpClient= OkhttpManager.getInstance().build(); } catch (IOException e) { e.printStackTrace(); }} document.querySelectorAll('.github-emoji') .forEach(el => { if (!el.dataset.src) { return; } const img = document.createElement('img'); img.style = 'display:none !important;'; img.src = el.dataset.src; img.addEventListener('error', () => { img.remove(); el.style.color = 'inherit'; el.style.backgroundImage = 'none'; el.style.background = 'none'; }); img.addEventListener('load', () => { img.remove(); }); document.body.appendChild(img); });]]></content>
       <categories>
         <category>1</category>
       </categories>

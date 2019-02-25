@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://HubeiXX.github.io/"/>
-  <updated>2019-02-23T06:15:55.980Z</updated>
+  <updated>2019-02-23T15:18:53.325Z</updated>
   <id>https://HubeiXX.github.io/</id>
   
   <author>
@@ -18,22 +18,23 @@
   
   <entry>
     <title>diyi</title>
-    <link href="https://HubeiXX.github.io/uncategorized/diyi.html"/>
-    <id>https://HubeiXX.github.io/uncategorized/diyi.html</id>
+    <link href="https://HubeiXX.github.io/jishu/diyi.html"/>
+    <id>https://HubeiXX.github.io/jishu/diyi.html</id>
     <published>2019-02-23T03:01:23.000Z</published>
-    <updated>2019-02-23T06:15:55.980Z</updated>
+    <updated>2019-02-23T15:18:53.325Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><html><head></head><body><p class="22"></p><p>1</p><img src="/uncategorized/diyi/1.jpg" title="Ϊʲô����ʾ��"><a id="more"></a><p>##</p><p>##</p><p>##</p><hr><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script></body></html>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><html><head></head><body><p class="22"></p><p>1</p><a id="more"></a><p>##</p><p>##</p><p>##</p><hr><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script></body></html>]]></content>
     
     <summary type="html">
     
-      &lt;p class=&quot;22&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;1&lt;/p&gt;
-&lt;img src=&quot;/uncategorized/diyi/1.jpg&quot; title=&quot;Ϊʲô����ʾ��&quot;&gt;
+      4
     
     </summary>
     
+      <category term="jishu" scheme="https://HubeiXX.github.io/categories/jishu/"/>
+    
+    
+      <category term="3" scheme="https://HubeiXX.github.io/tags/3/"/>
     
   </entry>
   
@@ -42,9 +43,9 @@
     <link href="https://HubeiXX.github.io/1/new-post.html"/>
     <id>https://HubeiXX.github.io/1/new-post.html</id>
     <published>2019-02-07T07:09:40.000Z</published>
-    <updated>2019-02-23T03:45:50.945Z</updated>
+    <updated>2019-02-25T06:45:20.119Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><html><head></head><body><p> hellO,world</p>        <div id="aplayer-oomoPjoS" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-oomoPjoS"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "你的爱情",              author: "Morris赖仔(Cover:逃跑计划)",              url: "http://music.163.com/song?id=1341567093&userid=51300693",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p><img src="/images/鼠标.ico" alt=""></p><p><img src="/images/1.jpg" alt=""></p><a id="more"></a><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script></body></html>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><html><head></head><body><p> hellO,world</p>        <div id="aplayer-rMTmEvhT" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-rMTmEvhT"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "你的爱情",              author: "Morris赖仔(Cover:逃跑计划)",              url: "http://music.163.com/song?id=1341567093&userid=51300693",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p><img src="/images/鼠标.ico" alt=""></p><p><img src="/images/1.jpg" alt=""></p><figure class="highlight java"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">MyActivity</span> <span class="keyword">extends</span> <span class="title">AppCompatActivity</span> </span>{</span><br><span class="line"><span class="meta">@Override</span>  <span class="comment">//override the function</span></span><br><span class="line">    <span class="function"><span class="keyword">protected</span> <span class="keyword">void</span> <span class="title">onCreate</span><span class="params">(@Nullable Bundle savedInstanceState)</span> </span>{</span><br><span class="line">        <span class="keyword">super</span>.onCreate(savedInstanceState);</span><br><span class="line">        <span class="keyword">try</span> {</span><br><span class="line">            OkhttpManager.getInstance().setTrustrCertificates(getAssets().open(<span class="string">"mycer.cer"</span>);</span><br><span class="line">          OkHttpClient mOkhttpClient= OkhttpManager.getInstance().build();</span><br><span class="line">     } <span class="keyword">catch</span> (IOException e) {</span><br><span class="line">           e.printStackTrace();</span><br><span class="line">      }</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure><a id="more"></a><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script></body></html>]]></content>
     
     <summary type="html">
     
